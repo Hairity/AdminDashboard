@@ -52,7 +52,7 @@ const ThemeSettings = () => {
               className="cursor-pointer"
               checked={currentMode === 'Dark'}
             />
-            {/* eslint-disable-next-line jsx-a11y/label-has-associated-control */}
+            
             <label htmlFor="dark" className="ml-2 text-md cursor-pointer">
               Dark
             </label>
